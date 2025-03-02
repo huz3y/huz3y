@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👨‍🎓 Computer Science degree<br>💻 Passionate about web development.<br>🌐 Working with JavaScript & TypeScript.<br>⚛️ React enthusiast!<br>🖥️ Building cool apps with Express & Next.js.<br>🤝 Open to collaboration!<br>🔍 Looking for exciting projects to work on!
+<br>👨‍🎓 Computer Science degree<br>💻 Passionate about web development.<br>🌐 Working with JavaScript & TypeScript.<br>⚛️ React and Next.js enthusiast!<br>🤝 Open to collaboration!<br>🔍 Looking for exciting projects to work on!
 
 
 ## 🌐 Socials:
